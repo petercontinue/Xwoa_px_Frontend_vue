@@ -1,0 +1,16 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "12080374",
+      "name": "签单需求-55",
+      "font_class": "qiandanxuqiu-",
+      "unicode": "e653",
+      "unicode_decimal": 58963
+    }
+  ]
+}
